@@ -1,6 +1,6 @@
 # 📘 Notebooks de Machine Learning – Grupo de Estudos Orion
 
-Este repositório reúne os **notebooks Jupyter** desenvolvidos durante as atividades do **Grupo de Estudos de Machine Learning** do Laboratório Orion.
+Este repositório reúne os notebooks Jupyter desenvolvidos durante as atividades do **Grupo de Estudos de Machine Learning** do **Laboratório Orion**.
 
 O objetivo é organizar e documentar os códigos feitos ao longo dos encontros, servindo tanto como registro de aprendizado quanto como material de consulta.
 
@@ -8,20 +8,16 @@ O objetivo é organizar e documentar os códigos feitos ao longo dos encontros, 
 
 ## 📂 Estrutura do Repositório
 
-* `01_nome_do_topico.ipynb` → breve descrição do que contém
-* `02_nome_do_topico.ipynb` → breve descrição do que contém
-* `...`
+* `classificador_iris.ipynb` → Implementação de um classificador para o conjunto de dados Iris utilizando técnicas de aprendizado supervisionado.
 
 ---
 
 ## 🧠 Conteúdos abordados
 
 * Introdução ao Machine Learning
-* Regressão Linear e Regressão Logística
-* Árvores de Decisão e Random Forest
-* Redes Neurais e TensorFlow/Keras
 * Pré-processamento de dados
-* Avaliação de modelos
+* Implementação de modelos de classificação
+* Avaliação de desempenho de modelos
 
 ---
 
